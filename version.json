@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "releaseDate": "2026-10-27",
+  "version": "1.0.2",
+  "releaseDate": "2026-11-01",
   "downloadUrl": "https://raw.githubusercontent.com/IsmaelFarah88/updaet/main/server-update.zip",
   "hasDbChanges": true,
-  "changelog": "تحديثات برمجية لقاعدة البيانات وحماية الأمان"
+  "changelog": "login"
 }
